@@ -1,0 +1,36 @@
+
+body {
+    background-color: skyblue;
+    margin: 100px;
+    padding: 20px;
+}
+
+
+
+
+.footer{
+    background-color: slategrey;
+    padding: 5px;
+    text-align: center;
+}
+
+.footer_title{
+    font-size: 20px;
+    color: white;
+}
+
+
+.footer_link{
+    padding: 25px;
+    color: white;
+}
+.footer_link:hover{
+    color: rgb(174, 247, 56);
+}
+.footer_social{
+    font-size: 1.6rem;
+}
+.footer_social:hover{
+    color: red;
+}
+
