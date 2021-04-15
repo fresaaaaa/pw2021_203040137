@@ -1,0 +1,34 @@
+
+body {
+    background-image: src="assets/gambar/a.png";
+}
+
+.add:hover {
+    color: chartreuse;
+}
+
+
+.footer{
+    background-color: slategrey;
+    text-align: center;
+}
+
+.footer_title{
+    font-size: 20px;
+    color: white;
+}
+
+
+.footer_link{
+    color: white;
+}
+.footer_link:hover{
+    color: rgb(174, 247, 56);
+}
+.footer_social{
+    font-size: 1.6rem;
+}
+.footer_social:hover{
+    color: red;
+}
+
