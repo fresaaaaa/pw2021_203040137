@@ -2,7 +2,7 @@
 //fungsi untuk melakukan koneksi ke database
 function koneksi() {
     $conn = mysqli_connect("localhost", "root", "");
-    mysqli_select_db($conn, "pw_tubes_203040137");
+    mysqli_select_db($conn, 'pw_203040137');
 
     return $conn;
 }
@@ -31,7 +31,7 @@ function tambah($book) {
 
     $query = "INSERT INTO buku
                 VALUES
-             ('', '$img', '$Judul', '$Pengarang', '$Terbit', '$Dimensi', '$ISBN')";
+             ('', '$gambar', '$Judul', '$Pengarang', '$Terbit', '$Dimensi', '$ISBN')";
 
     mysqli_query($conn, $query);
 
@@ -45,6 +45,3 @@ function hapus($id) {
 
     return mysqli_affected_rows($conn);
 }
-
-
-?>

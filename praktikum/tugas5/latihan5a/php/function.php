@@ -2,7 +2,7 @@
 //fungsi untuk melakukan koneksi ke database
 function koneksi() {
     $conn = mysqli_connect("localhost", "root", "");
-    mysqli_select_db($conn, "pw_tubes_203040137");
+    mysqli_select_db($conn, 'pw_203040137');
 
     return $conn;
 }
@@ -17,4 +17,3 @@ function query($sql) {
     }
     return $rows;
 }
-?>

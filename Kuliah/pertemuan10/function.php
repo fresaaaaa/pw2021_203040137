@@ -2,7 +2,7 @@
 // koneksi ke database
 function koneksi()
 {
-    return mysqli_connect("localhost", "root", "", "phpdasar");
+    return mysqli_connect('localhost', 'root', '', 'pw_203040137');
 }
 
 function query($query)
