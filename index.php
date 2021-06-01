@@ -1,3 +1,12 @@
+<?php
+/*
+    Fresabayu Anggoro
+    203040137
+    Kelas D Informatika
+    Tugas Besar Banget
+    https://github.com/fresaaaaa/pw2021_203040137
+*/
+?>
 <!DOCTYPE html>
 <html>
 
@@ -31,7 +40,7 @@
     .container {
       margin: auto;
       margin-top: 50px;
-      background-color: navy;
+      background-color: #123ead;
       width: 600px;
       padding: 20px;
       padding-bottom: 50px;
@@ -109,18 +118,17 @@
         <td align="center" rowspan="6">-- KULIAH --</td>
       </tr>
       <tr>
-        <td colspan="2" align="center"><a href="Kuliah/pertemuan10/latihan1.php">PERTEMUAN 10</a>
+        <td colspan="2" align="center"><a href="Kuliah/pertemuan10/latihan1.php" target="_blank">PERTEMUAN 10</a>
         </td>
       </tr>
       <tr>
-        <td colspan="2" align="center"><a href="Kuliah/pertemuan11/index.php" target="_blank">PERTEMUAN
-            11</a></td>
+        <td colspan="2" align="center"><a href="Kuliah/pertemuan11/index.php" target="_blank">PERTEMUAN 11</a></td>
       </tr>
       <tr>
-        <td colspan="2" align="center"><a href="kuliah/pertemuan12/index.php" target="_blank">PERTEMUAN 12</a></td>
+        <td colspan="2" align="center"><a href="Kuliah/pertemuan12/index.php" target="_blank">PERTEMUAN 12</a></td>
       </tr>
       <tr>
-        <td colspan="2" align="center"><a href="kuliah/pertemuan13/index.php" target="_blank">PERTEMUAN 13</a></td>
+        <td colspan="2" align="center"><a href="Kuliah/pertemuan13/index.php" target="_blank">PERTEMUAN 13</a></td>
       </tr>
       <tr>
         <td colspan="3"></td>

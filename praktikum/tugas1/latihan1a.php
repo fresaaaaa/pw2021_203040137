@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <?php
 /*
     Fresabayu Anggoro
@@ -7,11 +6,11 @@
     latihan 1A Praktikum PW
     https://github.com/fresaaaaa/pw2021_203040137
 */
-   for( $i = 1; $i <= 3; $i++ )
-        for ($j = 1; $j <= 3; $j++) {
+for ($i = 1; $i <= 3; $i++)
+    for ($j = 1; $j <= 3; $j++) {
         echo "Ini perulangan ke ($i, $j) <br>";
     }
-=======
+?>
 <?php
 /*
     Fresabayu Anggoro
@@ -20,9 +19,8 @@
     latihan 1A Praktikum PW
     https://github.com/fresaaaaa/pw2021_203040137
 */
-   for( $i = 1; $i <= 3; $i++ )
-        for ($j = 1; $j <= 3; $j++) {
+for ($i = 1; $i <= 3; $i++)
+    for ($j = 1; $j <= 3; $j++) {
         echo "Ini perulangan ke ($i, $j) <br>";
     }
->>>>>>> 00459d08372ca6203f3091a76dc9bdc279e2ff98
 ?>

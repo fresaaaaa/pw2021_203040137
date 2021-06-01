@@ -1,4 +1,12 @@
 <?php
+/*
+    Fresabayu Anggoro
+    203040137
+    Kelas D Informatika
+    Tugas Besar Banget
+    https://github.com/fresaaaaa/pw2021_203040137
+*/
+
 //mengecek apakah  ada id yang di kirimkan
 //jika tidak maka akan di kembalikan ke halaman index.php
 if (!isset($_GET['id'])) {
@@ -14,7 +22,6 @@ $id = $_GET['id'];
 //melakukan query dengan parameter id yang di ambil dari url 
 $row = query("SELECT * FROM anime WHERE id= $id")[0];
 ?>
-
 <!DOCTYPE html>
 <html lang="en">
 

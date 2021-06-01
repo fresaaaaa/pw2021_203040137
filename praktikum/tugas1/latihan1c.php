@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <?php
 /*
     Fresabayu Anggoro
@@ -42,8 +41,6 @@
     <?php endfor; ?>
 
 </body>
-
-=======
 <?php
 /*
     Fresabayu Anggoro
@@ -89,4 +86,5 @@
 </body>
 
 >>>>>>> 00459d08372ca6203f3091a76dc9bdc279e2ff98
+
 </html>

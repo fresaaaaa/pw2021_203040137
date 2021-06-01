@@ -1,4 +1,13 @@
 <?php
+/*
+    Fresabayu Anggoro
+    203040137
+    Kelas D Informatika
+    Tugas Besar Banget
+    https://github.com/fresaaaaa/pw2021_203040137
+*/
+
+
 //fungsi untuk melakukan koneksi ke database
 function koneksi()
 {

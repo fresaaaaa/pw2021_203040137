@@ -5,9 +5,8 @@
     Tugas Besar Banget
     https://github.com/fresaaaaa/pw2021_203040137
 */
-?>
 
-<?php
+
 session_start();
 
 if (!isset($_SESSION["username"])) {
@@ -63,6 +62,7 @@ if (isset($_GET['cari'])) {
         .container {
             background-image: linear-gradient(red, white);
             padding: 10px;
+            border-radius: 15px;
 
         }
 

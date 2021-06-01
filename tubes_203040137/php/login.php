@@ -1,15 +1,14 @@
 <?php
-/*  
-  Nama : Fresabayu Anggoro
-  NPM : 203040137
-  Kelas : TIF D
+/*
+    Fresabayu Anggoro
+    203040137
+    Kelas D Informatika
+    Tugas Besar Banget
+    https://github.com/fresaaaaa/pw2021_203040137
 */
-?>
 
 
 
-
-<?php
 session_start();
 require 'function.php';
 

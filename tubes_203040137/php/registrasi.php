@@ -1,4 +1,13 @@
 <?php
+/*
+    Fresabayu Anggoro
+    203040137
+    Kelas D Informatika
+    Tugas Besar Banget
+    https://github.com/fresaaaaa/pw2021_203040137
+*/
+
+
 require 'function.php';
 
 if (isset($_POST["register"])) {
@@ -19,8 +28,6 @@ if (isset($_POST["register"])) {
 }
 
 ?>
-
-
 <!DOCTYPE html>
 <html lang="en">
 
